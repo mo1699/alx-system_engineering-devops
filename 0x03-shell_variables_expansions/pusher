@@ -1,5 +1,0 @@
-#!/bin/bash
-chmod u+x *
-git add .
-git commit -m "0x03. Shell, init files, variables and expansions"
-git push "https://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@github.com/mo1699/alx-system_engineering-devops.git"
