@@ -1,0 +1,5 @@
+#!/bin/bash
+chmod u+x *
+git add .
+git commit -m "0x01. Shell, permissions"
+git push "https://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@github.com/mo1699/alx-system_engineering-devops.git"
