@@ -2,4 +2,4 @@
 chmod u+x *
 git add .
 git commit -m "0x03. Shell, init files, variables and expansions"
-git push "https://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@github.com/mo1699/alx-system_engineering-devops.git"
+git push "https://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@github.com/mo1699/alx-system_engineering-devops.git"
