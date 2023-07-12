@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "Hello, World!" | tr 'A-Za-z' 'N-ZA-Mn-za-m' | tee /dev/stderr | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+#!/bin/bas
+echo "Hello, World!" | tr 'A-Za-z' 'N-ZA-Mn-za-m' | tr 'A-Za-z' 'N-ZA-Mn-za-m'
